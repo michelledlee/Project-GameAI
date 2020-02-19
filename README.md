@@ -23,9 +23,9 @@ The Game is a strategic game with aspects of tower defense and real-time strateg
 1. Clone the repository
 2. Download and unzip the project files
 3. Ensure Python3 is installed. If it isn't, you can find it [here](https://www.python.org/downloads/).
-4. You can either run the program from a Python IDE (the authors suggest PyCharm) or run from command line by:
-a. Browsing to the directory of the file
-b. In command line:
+4. You can either run the program from a Python IDE (the authors suggest PyCharm) or run from command line by:  
+a. Browsing to the directory of the file  
+b. In command line:  
 ```
 Python3 GameMain.py
 ```
@@ -33,6 +33,3 @@ Python3 GameMain.py
 ## Author Link
 [Michelle Lee](https://michelledlee.github.io/)  
 [Sushruth Bhandary](https://github.com/bhandarysushruth)
-
-## Other Links
-[Google Slides Presentation](https://docs.google.com/presentation/d/1OvAA9QuwPLLZ4Z4DDvwiaT5N0i5y75vjSroeDeJSFhA/edit?usp=sharing)
